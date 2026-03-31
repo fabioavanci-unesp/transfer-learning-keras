@@ -41,8 +41,8 @@ Desempenho geral pode ser considerado bom para um problema de 7 classes, a acur�
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DO_SEU_REPOSITORIO>
+    git clone https://github.com/fabioavanci-unesp/transfer-learning-keras.git
+    cd transfer-learning-keras
     ```
 2.  **Instale as Dependências:**
     Certifique-se de ter Python 3.x e `pip` instalados. As principais bibliotecas incluem `tensorflow`, `keras`, `numpy`, `pandas`, `matplotlib`, `opencv-python` e `scikit-learn`. Você pode instalá-las via `pip`:
